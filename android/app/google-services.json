@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384132253103",
+    "firebase_url": "https://rpgplus-7d331.firebaseio.com",
+    "project_id": "rpgplus-7d331",
+    "storage_bucket": "rpgplus-7d331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384132253103:android:663f5a4cc411000c081b5a",
+        "android_client_info": {
+          "package_name": "com.example.aula_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384132253103-c7o5t8hnh0ams9bf8d6mnvgjuun28fva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG0s5mSTozlG_NJnftFlXG-KutFsgUFts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384132253103-c7o5t8hnh0ams9bf8d6mnvgjuun28fva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

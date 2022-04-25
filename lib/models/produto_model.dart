@@ -7,7 +7,6 @@ Projeto({this.data_inicio});
 
   factory Projeto.fromMap(dynamic map) {
     return Projeto(
-      id:map['id'];
       data_inicio: null == map['data_inicio']
           ? null
           : DateTime.fromMillisecondsSinceEpoch(map['data_inicio']),

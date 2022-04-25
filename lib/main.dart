@@ -2,8 +2,6 @@ import 'package:aula_01/telas/my_home_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-import 'models/produto_model.dart';
-
 void main() async {
   await Firebase.initializeApp();
   runApp(MyApp());
@@ -21,4 +19,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-

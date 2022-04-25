@@ -1,5 +1,3 @@
-
-import 'package:aula_01/helpers/projetos_list.dart';
 import 'package:aula_01/widgets/my_check_box.dart';
 import 'package:flutter/material.dart';
 
